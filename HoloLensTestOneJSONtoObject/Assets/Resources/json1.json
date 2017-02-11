@@ -1,0 +1,27 @@
+{
+	"objectInfoArray":
+	[
+		{
+			"name":"Cube",
+			"color":"#f44242",
+			"xposition":-2,
+			"yposition":1,
+			"zposition":6
+		},
+		{
+			"name":"Capsule",
+			"color":"#ffff00",
+			"xposition":2,
+			"yposition":2,
+			"zposition":8
+		},
+		{
+			"name":"Cylinder",
+			"color":"#3333ff",
+			"xposition":0,
+			"yposition":-2,
+			"zposition":9
+		}
+	]
+
+}
