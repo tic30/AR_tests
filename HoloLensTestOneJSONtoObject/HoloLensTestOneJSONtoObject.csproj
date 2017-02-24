@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ObjectInfo.cs" />
     <Compile Include="Assets\Scripts\SpatialMapping.cs" />
+    <Compile Include="Assets\Scripts\WorldAncherScript.cs" />
     <Compile Include="Assets\Scripts\WorldCursor.cs" />
     <Compile Include="Assets\Scripts\main.cs" />
   </ItemGroup>
