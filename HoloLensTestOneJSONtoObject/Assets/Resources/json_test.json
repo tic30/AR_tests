@@ -1,0 +1,238 @@
+{
+  "detector_results": [
+    {
+      "student": "Another Test  Student",
+      "time": "2017-02-01T21:33:30.000Z",
+      "step_id": null,
+      "transaction_id": "d55eff3f-c730-54d5-064d-7f55cfff6f9b",
+      "name": "help_model",
+      "category": "Dashboard",
+      "value": "acceptable",
+      "history": {
+        "lastAction": "error",
+        "lastActionTime": "2017-02-01T21:33:30.120Z",
+        "seenAllHints": {},
+        "lastHintLength": "",
+        "lastSenseOfWhatToDo": false
+      },
+      "xposition":0.1,
+      "yposition":0.3,
+      "zposition":1.5,
+      "skill_names": [
+        "Divide_both_sides_by_the_variable_coefficient/LDashb"
+      ] 
+    },
+    {
+      "student": "Another Test  Student",
+      "time": "2017-02-01T21:33:30.000Z",
+      "step_id": null,
+      "transaction_id": "d55eff3f-c730-54d5-064d-7f55cfff6f9b",
+      "name": "current_attempt_count",
+      "category": "Dashboard",
+      "value": "1",
+      "history": {
+        "solveLeft1": 1,
+        "solveRight1": 1,
+        "done": 1,
+        "solveLeft2": 1
+      },
+      "skill_names": [
+        "Divide_both_sides_by_the_variable_coefficient/LDashb"
+      ]
+    },
+    {
+      "student": "Yet another test J student",
+      "time": "2017-02-04T04:17:13.000Z",
+      "step_id": null,
+      "transaction_id": "44ec5013-2ca9-4a30-8a92-e99fab2a5a34",
+      "name": "current_attempt_count",
+      "category": "Dashboard",
+      "value": "12",
+      "history": {
+        "hint": 12,
+        "nextButton": 4,
+        "previousButton": 2,
+        "firstDenConv": 1,
+        "firstNumConv": 1,
+        "secDenConv": 1,
+        "secNumConv": 1,
+        "ansDen1": 1,
+        "ansNum1": 6,
+        "done": 2,
+        "ansDenFinal1": 1
+      },
+      "skill_names": [
+        "reduce-numerator/fraction-addition"
+      ]
+    },
+    {
+      "student": "Yet another test J student",
+      "time": "2017-02-04T04:17:13.000Z",
+      "step_id": null,
+      "transaction_id": "44ec5013-2ca9-4a30-8a92-e99fab2a5a34",
+      "name": "help_model",
+      "category": "Dashboard",
+      "value": "not acceptable",
+      "history": {
+        "lastAction": "hint",
+        "lastActionTime": "2017-02-04T04:17:13.945Z",
+        "seenAllHints": {
+          "firstNumConv": true,
+          "ansNumFinal1": true
+        },
+        "lastHintLength": 7,
+        "lastSenseOfWhatToDo": false
+      },
+      "xposition":0.9,
+      "yposition":0.3,
+      "zposition":1.5,
+      "skill_names": [
+        "reduce-numerator/fraction-addition"
+      ]
+    },
+    {
+      "student": "Test  Student",
+      "time": "2017-02-22T21:36:42.000Z",
+      "step_id": null,
+      "transaction_id": "75fe4376-d577-9e9a-f089-c2b366d1fa11",
+      "name": "current_attempt_count",
+      "category": "Dashboard",
+      "value": "2",
+      "history": {
+        "hint": 3,
+        "nextButton": 17,
+        "previousButton": 15,
+        "solveLeft1": 1,
+        "solveRight1": 1,
+        "done": 2,
+        "solveLeft2": 1
+      },
+      "skill_names": [
+        "Divide_both_sides_by_the_variable_coefficient/LDashb"
+      ]
+    },
+    {
+      "student": "Test  Student",
+      "time": "2017-02-22T21:36:42.000Z",
+      "step_id": null,
+      "transaction_id": "75fe4376-d577-9e9a-f089-c2b366d1fa11",
+      "name": "help_model",
+      "category": "Dashboard",
+      "value": "preferred",
+      "history": {
+        "lastAction": "error",
+        "lastActionTime": "2017-02-22T21:36:42.720Z",
+        "seenAllHints": {
+          "solveLeft1": true,
+          "solveRight1": true,
+          "solveLeft2": true
+        },
+        "lastHintLength": 5,
+        "lastSenseOfWhatToDo": true
+      },
+      "skill_names": [
+        "Divide_both_sides_by_the_variable_coefficient/LDashb"
+      ]
+    },
+    {
+      "student": "weirdCMU  dash39",
+      "time": "2017-02-15T21:57:34.000Z",
+      "step_id": null,
+      "transaction_id": "10772286-8329-8649-3e90-37217303265a",
+      "name": "current_attempt_count",
+      "category": "Dashboard",
+      "value": "1",
+      "history": {
+        "firstDenConv": 1,
+        "firstNumConv": 7,
+        "done": 7,
+        "secDenConv": 1,
+        "secNumConv": 1,
+        "ansDen1": 1,
+        "ansNum1": 1,
+        "ansNumFinal1": 1
+      },
+      "skill_names": [
+        "reduce-numerator/fraction-addition"
+      ]
+    },
+    {
+      "student": "weirdCMU  dash39",
+      "time": "2017-02-15T21:57:34.000Z",
+      "step_id": null,
+      "transaction_id": "10772286-8329-8649-3e90-37217303265a",
+      "name": "help_model",
+      "category": "Dashboard",
+      "value": "preferred",
+      "history": {
+        "lastAction": "error",
+        "lastActionTime": "2017-02-15T21:57:34.381Z",
+        "seenAllHints": {},
+        "lastHintLength": "",
+        "lastSenseOfWhatToDo": true
+      },
+      "skill_names": [
+        "reduce-numerator/fraction-addition"
+      ]
+    },
+    {
+      "student": "weirdCMU  dash11",
+      "time": "2017-02-22T21:57:10.000Z",
+      "step_id": null,
+      "transaction_id": "f7880c14-a2a9-372d-abfb-30c31754cdf9",
+      "name": "current_attempt_count",
+      "category": "Dashboard",
+      "value": "2",
+      "history": {
+        "solveLeft1": 2
+      },
+      "skill_names": [
+        "Add/subtract_constant_from_both_sides/LDashb"
+      ]
+    },
+    {
+      "student": "weirdCMU  dash11",
+      "time": "2017-02-22T21:57:10.000Z",
+      "step_id": null,
+      "transaction_id": "f7880c14-a2a9-372d-abfb-30c31754cdf9",
+      "name": "help_model",
+      "category": "Dashboard",
+      "value": "not acceptable",
+      "history": {
+        "lastAction": "error",
+        "lastActionTime": "2017-02-22T21:57:10.162Z",
+        "seenAllHints": {},
+        "lastHintLength": "",
+        "lastSenseOfWhatToDo": false
+      },
+      "xposition":0.1,
+      "yposition":0.3,
+      "zposition":3.5,
+      "skill_names": [
+        "Add/subtract_constant_from_both_sides/LDashb"
+      ]
+    },
+    {
+      "student": "weirdCMU  dash11",
+      "time": "2017-02-22T21:57:10.000Z",
+      "step_id": null,
+      "transaction_id": "f7880c14-a2a9-372d-abfb-30c31754cdf9",
+      "name": "help_model_try_if_low",
+      "category": "Dashboard",
+      "value": "not acceptable/hint avoidance",
+      "history": {
+        "lastAction": "error",
+        "lastActionTime": "2017-02-22T21:57:10.164Z",
+        "seenAllHints": {},
+        "lastHintLength": "",
+        "lastSenseOfWhatToDo": false
+      },
+      "xposition":0.9,
+      "yposition":0.3,
+      "zposition":3.5,
+      "skill_names": [
+        "Add/subtract_constant_from_both_sides/LDashb"
+      ]
+    }
+  ]
+}

@@ -3,18 +3,27 @@
 [System.Serializable]
 public class ObjectInfo
 {
+    public string student;
+    public string time;
+    public int step_id;
+    public string transaction_id;
     public string name;
-    public string color;
-    public int xposition;
-    public int yposition;
-    public int zposition;
+    public string catogory;
+    public string value;
+    //public Object history;
+    //public Object skill_names;
+    public string color;//added to paint objects
+    public float xposition;//added to locate object
+    public float yposition;//added to locate object
+    public float zposition;//added to locate object
 }
 
 
 [System.Serializable]
 public class ObjectInfoCollection
 {
-    public ObjectInfo[] objectInfoArray;
+    //array of students
+    public ObjectInfo[] detector_results;
 
     public static ObjectInfoCollection CreateFromJSON(string jsonString)
     {
